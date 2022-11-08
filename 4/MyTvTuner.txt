@@ -1,0 +1,14 @@
+Тюнер включився
+Звук: 89
+Звук: 88
+Звук: 89
+Звук: 49
+Звук: 48
+Звук: 49
+Tuner is ON
+Volume: 89
+Volume: 88
+Volume is: 89
+Volume: 49
+Volume: 48
+Volume: 49
