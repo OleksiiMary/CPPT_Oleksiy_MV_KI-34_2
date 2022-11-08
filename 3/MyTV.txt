@@ -1,0 +1,181 @@
+Телевізор вже був виключений
+--<Список каналів>--
+	1. QTV
+	2. NLO TV
+	3. Новий канал
+	4. M1
+	5. K1
+	6. ICTV
+	7. TET
+	8. UATV
+TV: LG and Type: OLED
+
+Гучність: 55
+Гучність: 50
+Гучність: 45
+Гучність: 40
+Канал: QTV
+Канал: NLO TV
+Канал: Новий канал
+Model is LG
+Type is OLED
+Date of release: null
+
+TV was OFF
+--<List of channels>--
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+TV: LG and Type: OLED
+
+Volume: 55
+Volume: 50
+Volume: 45
+Volume: 40
+Channel: QTV
+Channel: NLO TV
+Channel: M1
+Model is LG
+Type is OLED
+Date of release: null
+
+TV was OFF
+--<List of channels>--
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+TV: LG and Type: OLED
+
+Volume: 55
+Volume: 50
+Volume: 45
+Volume: 40
+Channel: QTV
+Channel: NLO TV
+Channel: M1
+Model is LG
+Type is OLED
+Date of release: null
+
+TV was OFF
+--<List of channels>--
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+TV: LG and Type: OLED
+
+Volume: 55
+Volume: 50
+Volume: 45
+Volume: 40
+Channel: QTV
+Channel: NLO TV
+Channel: M1
+Model is LG
+Type is OLED
+Date of release: null
+
+TV was OFF
+--<List of channels>--
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+TV: LG and Type: OLED
+
+Volume: 55
+Volume: 50
+Volume: 45
+Volume: 40
+Channel: QTV
+Channel: NLO TV
+Channel: M1
+Model is LG
+Type is OLED
+Date of release: null
+
+TV was OFF
+--<List of channels>--
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+TV: LG and Type: OLED
+
+Volume: 55
+Volume: 50
+Volume: 45
+Volume: 40
+Channel: QTV
+Channel: NLO TV
+Channel: M1
+Model is LG
+Type is OLED
+
+TV was OFF
+--<List of channels>--
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+TV: LG and Type: OLED
+
+Volume: 55
+Volume: 50
+Volume: 45
+Volume: 40
+Channel: QTV
+Channel: NLO TV
+Model is LG
+Type is OLED
+
+TV was OFF
+--<List of channels>--
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+TV: LG and Type: OLED
+
+Volume: 55
+Volume: 50
+Volume: 45
+Volume: 40
+Channel: QTV
+Channel: NLO TV
+Channel: M1
+Model is AEG
+Type is PDP
+
+TV: AEG and Type: PDP
+
+Volume: 35
+Volume: 30
+Volume: 25
+Volume: 20
+Volume: 15
+Volume: 10
