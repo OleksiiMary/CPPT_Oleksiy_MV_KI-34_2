@@ -11,8 +11,11 @@ public class Start {
        tuner.change_volume_vol_minus();
        tuner.change_volume_vol_minus();
        tuner.change_volume_vol_add();
+       tuner.getChannelTuner();
+       tuner.ChannelList();
        tv.change_volume_vol_minus();
        tv.change_volume_vol_minus();
        tv.change_volume_vol_add();
+       tv.include();
     }
 }

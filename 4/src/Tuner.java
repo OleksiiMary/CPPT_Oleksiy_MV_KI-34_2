@@ -12,7 +12,7 @@ public class Tuner implements TvTuner {
             true));
     private boolean switchTuner = false;
     private byte channel = 0;
-    private String[] channelTuner = new String[]{"QTV", "NLO TV", "Новий канал", "M1", "K1", "ICTV", "TET", "UATV"};
+    private String[] channelTuner = new String[]{"QTV", "NLO TV", "M1", "K1", "ICTV", "TET", "UATV"};
 
 
 
@@ -97,7 +97,7 @@ public class Tuner implements TvTuner {
 
     public void ChannelList() throws FileNotFoundException {
         byte num = 1;
-        System.out.println("--<last of channels>--");
+        System.out.println("--<list of channels>--");
         for (String el: new Tuner().getChannelTuner()){
             System.out.println("\t"+num+". " + el);
             getFout().println("\t"+num+". " + el);

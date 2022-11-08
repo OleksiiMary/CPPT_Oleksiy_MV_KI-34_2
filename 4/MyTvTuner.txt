@@ -12,3 +12,47 @@ Volume is: 89
 Volume: 49
 Volume: 48
 Volume: 49
+Tuner is ON
+Volume: 89
+Volume: 88
+Volume is: 89
+	1. QTV
+	2. NLO TV
+	3. Новий канал
+	4. M1
+	5. K1
+	6. ICTV
+	7. TET
+	8. UATV
+Volume: 49
+Volume: 48
+Volume: 49
+Tuner is ON
+Volume: 89
+Volume: 88
+Volume is: 89
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+Volume: 49
+Volume: 48
+Volume: 49
+Tuner is ON
+Volume: 89
+Volume: 88
+Volume is: 89
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
+Volume: 49
+Volume: 48
+Volume: 49
+TV is ON
